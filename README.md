@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinhegde
-- 👀 I’m interested in ServiceNow, React Native and I am a product person(!?)
-- 🌱 I’m currently learning building mobile apps
+- 👀 I’m interested in ServiceNow, React Native.
+- 🌱 I’m currently working on building mobile apps
 - 💞️ I’m looking to collaborate with Indie developers and designers
 - 📫 How to reach me - https://twitter.com/Hegdesachin1
 
